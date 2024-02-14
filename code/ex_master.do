@@ -43,7 +43,7 @@ Analysis for paper/dissertation/presentation
 
 if c(username) == "" {
 global dir ""
-global output ""
+global output "" 
 global outputtex ""
 global datadir ""
 cd $dir
